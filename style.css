@@ -28,8 +28,8 @@ header {
     width: 100%;
     height: 600px;
     background: #333333;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #a1414157, #e11111e3), url(imagenes/fondo.jpeg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    background: linear-gradient(to right, #a1414157, #e11111e3), url(imagenes/fondo.jpeg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: -webkit-linear-gradient(to right, #a1414157, #e11111e3), url(imagenes/fondo.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #a1414157, #e11111e3), url(imagenes/fondo.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
 }
